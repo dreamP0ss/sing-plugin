@@ -115,6 +115,8 @@ download_naive() {
 
   curl -Lso tmp.tar.xz "https://github.com/klzgrad/naiveproxy/releases/download/${VERSION}/naiveproxy-${VERSION}-android-arm64.tar.xz"
   unzip_naive arm64-v8a
+  curl -Lso tmp.tar.xz "https://github.com/klzgrad/naiveproxy/releases/download/${VERSION}/naiveproxy-${VERSION}-android-x64.tar.xz"
+  unzip_naive x86_64
 }
 
 download_"$1"
