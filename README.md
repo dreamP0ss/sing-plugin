@@ -1,10 +1,10 @@
-# Matsuri Plugins
+# AntiNeko Plugins
 
 ## To find plugin download
 
-https://matsuridayo.github.io/m-plugin/
+<https://AntiNeko.github.io/cb4a-plugin/>
 
-https://github.com/MatsuriDayo/plugins/releases
+<https://github.com/AntiNeko/sing-plugin/releases>
 
 ## To build a plugin
 
